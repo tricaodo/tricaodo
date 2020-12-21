@@ -1,6 +1,6 @@
 ### Hi there, I'm [Tri Do][website]😎
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](http://tricaodo.herokuapp.com/)
+[![Website](https://raw.githubusercontent.com/tricaodo/tricaodo/main/logo.png)](http://tricaodo.herokuapp.com/)
 
 ## About Me
 As soon as I discovered that technology has impacted our society tremendously, I knew this had to be my career, so I decided to pursue a major in Computer Science. When taking Software Development Using Java at my Community College, I was inspired and fell in love with every single line of code. In September 2019, I took a data structure and algorithm class, and I added that hands-on class to my full-time schedule while I was learning web development. This summer, launched my career with an internship at Fannie Mae where I worked as part of the Integrated Technology Solutions team designing, modifying, and creating web services to help the users determine whether the loans should be held for sale or investment.
