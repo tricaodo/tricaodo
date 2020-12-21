@@ -3,13 +3,13 @@
 [![Website](https://raw.githubusercontent.com/tricaodo/tricaodo/main/logo.png)](http://tricaodo.herokuapp.com/)
 
 ## About Me
-As soon as I discovered that technology has impacted our society tremendously, I knew this had to be my career, so I decided to pursue a major in Computer Science. When taking Software Development Using Java at my Community College, I was inspired and fell in love with every single line of code. In September 2019, I took a data structure and algorithm class, and I added that hands-on class to my full-time schedule while I was learning web development. This summer, launched my career with an internship at Fannie Mae where I worked as part of the Integrated Technology Solutions team designing, modifying, and creating web services to help the users determine whether the loans should be held for sale or investment.
+As soon as I discovered that technology has impacted our society tremendously, I knew this had to be my career, so I decided to pursue a major in Computer Science. When taking Software Development Using Java at my Community College, I was inspired and fell in love with every single line of code. In September 2019, I took a data structure and algorithm class, and I added that hands-on class to my full-time schedule while I was learning web development. This summer, launched my career with an internship at Fannie Mae where I worked as part of the Integrated Technology Solutions team designing, modifying, and creating web services to help the traders determine whether the loans should be held for sale or investment.
 
 Since I started studying Computer Science, I built multiple projects using different languages and libraries. One of the projects that I am very proud of is my Path Finding Visualizer where I learned and used a variety of data structures and algorithms. I did very well in and outside of classes, I received scholarships for outstanding academic achievements. Outside of school work, I am focusing on improving my technical skill by practicing many coding questions on online platforms like Hackerrank, Leetcode,...
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with others to build projects
-- 🥅 2021 Goals: Actively looking for a software engineern internship opportunity for Summer 2021
+- 🥅 2021 Goals: Actively looking for a software engineer internship opportunity for Summer 2021
 - ⚡ Fun fact: I love to play pianos
 
 
