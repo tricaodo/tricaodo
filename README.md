@@ -15,7 +15,7 @@ Since I started studying Computer Science, I built multiple projects using diffe
 
 ### Connect with me:
 
-📫 [E-mail](mailto:trido1903@gmail.com)
+📫 [E-mail](mailto:trido1903@gmail.com) **|** 
 🏡 [website][website] **|** 
 👔 [linkedin][linkedin]
 
